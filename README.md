@@ -17,3 +17,5 @@ git add filename.extension
 git commit
 git push origin main
 ```
+
+## ***Next Steps***
