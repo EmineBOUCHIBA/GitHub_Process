@@ -3,6 +3,5 @@
 ## **Introduction :**
 
 ```
-bash
 git init
 ```
