@@ -2,6 +2,7 @@
 
 ## **Introduction :**
 
-```bash
+```
+bash
 git init
 ```
