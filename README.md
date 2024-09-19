@@ -31,5 +31,11 @@ Description du commit avec des informations sur l'évolution du projet
 ### Création d'une branche :
 
 ```
-git checkout -b branch_name
+git checkout -b BRANCH_NAME
+```
+
+### Switcher de branch :
+
+```
+git checkout BRANCH_NAME
 ```
