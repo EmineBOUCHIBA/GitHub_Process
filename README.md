@@ -39,3 +39,5 @@ git checkout -b BRANCH_NAME
 ```
 git checkout BRANCH_NAME
 ```
+
+### Pour les bonnes pratiques, on va intégrer la notion de review :
