@@ -23,7 +23,7 @@ git push origin main
 ### Rédiger un bon commit :
 
 ```
-Titre du commentaire (un commentaire)
+Titre du commentaire
 
 Description du commit avec des informations sur l'évolution du projet
 ```
